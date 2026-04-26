@@ -13,7 +13,7 @@ public class TaskAllocationSystem
 		char anotherSelection = 'n';
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("Mesozoic is open to the public from 10 A.M. to 7 P.M.");
+		System.out.println("Mesozoic Park is open to the public from 10 A.M. to 7 P.M.");
 		
 		do
 		{
