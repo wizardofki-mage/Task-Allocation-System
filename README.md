@@ -53,7 +53,5 @@ Since it satisfies the requirements of the Chapter 4 project in this book, I'm r
 ## Sources
 This program is my solution to the "Project - Task allocation system prompt" at the end of Chapter 4 in the Learn Java with Projects book. I stuck with the default roles suggested by the authors of feeding, cleaning, security, and tour guides, and added manager. I also just went with a pass-fail for the security rating and two options for the time of day (during and after hours). This simplified the program a little since with white-space and brackets, it is already 285 lines long.
 
-I created my flowcharts from scratch using miro.com. I edited them slightly with circles and letters in Microsoft Paint afterwards to clarify which branch goes to the next one, as the screenshots of my flowchart were captured in a series of approximately page-sized single .png files to be placed in my project documentation document.
-
 ## Contact
 Jason Ash - wizardofki@gmail.com
